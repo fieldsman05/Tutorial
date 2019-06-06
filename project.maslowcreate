@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule - Rotate and Move",
-            "x": 816,
-            "y": 77,
+            "x": 804,
+            "y": 76,
             "uniqueID": 742531,
             "ioValues": [
                 {
@@ -182,8 +182,8 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant - Radius",
-                    "x": 72,
-                    "y": 302,
+                    "x": 66,
+                    "y": 307,
                     "uniqueID": 832924,
                     "ioValues": [
                         {
@@ -195,8 +195,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 272,
-                    "y": 158,
+                    "x": 285,
+                    "y": 157,
                     "uniqueID": 950419,
                     "ioValues": [],
                     "readmeText": "Maslow Create is a new type of CAD program where you define the thing you want to create logically, rather than by drawing. Each project is composed of Atoms and Molecules. Each atom performs one logical task like rotating the shape, each Molecule can contain any number of inter connected Atoms. To place an atom or molecule right click anywhere on the flow drawing canvas."
@@ -204,8 +204,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 284,
-                    "y": 291,
+                    "x": 288,
+                    "y": 289,
                     "uniqueID": 606028,
                     "ioValues": [
                         {
@@ -238,8 +238,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 518,
-                    "y": 287,
+                    "x": 520,
+                    "y": 284,
                     "uniqueID": 934230,
                     "ioValues": [
                         {
@@ -260,8 +260,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 698,
-                    "y": 196,
+                    "x": 692,
+                    "y": 189,
                     "uniqueID": 449683,
                     "ioValues": []
                 },
@@ -277,8 +277,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule - Rotate and Move",
-                    "x": 816,
-                    "y": 77,
+                    "x": 804,
+                    "y": 76,
                     "uniqueID": 742531,
                     "ioValues": [
                         {
@@ -291,7 +291,7 @@
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 1016,
-                    "y": 161,
+                    "y": 157,
                     "uniqueID": 140877,
                     "ioValues": [
                         {
@@ -311,8 +311,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 1238,
-                    "y": 123,
+                    "x": 1312,
+                    "y": 83,
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
@@ -320,8 +320,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1870,
-                    "y": 234,
+                    "x": 1877,
+                    "y": 231,
                     "ioValues": []
                 }
             ],
